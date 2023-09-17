@@ -16,7 +16,7 @@ static const char dmenufont[]       = "monospace:size=10";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] 	= { foreground, background, background },
-	[SchemeSel]  	= { foreground, background, background },
+	[SchemeSel]  	= { foreground, background, white},
 };
 
 /* tagging */

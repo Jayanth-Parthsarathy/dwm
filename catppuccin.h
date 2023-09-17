@@ -9,3 +9,4 @@ static const char purple[] 	= "#cba6f7";
 static const char red[] 	= "#f38ba8";
 static const char yellow[] 	= "#f9e2af";
 static const char blue[]	= "#89b4fa";
+static const char white[]	= "#eeeeee";
