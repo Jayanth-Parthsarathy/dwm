@@ -1,4 +1,4 @@
-static const char background[]   = "#282828";
+static const char background[]   = "#0a0a0a";
 static const char bg_alt[]      = "#3c3836";
 static const char foreground[]   = "#ebdbb2";
 static const char cyan[]        = "#83a598";
