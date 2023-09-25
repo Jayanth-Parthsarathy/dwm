@@ -13,7 +13,7 @@ static const int vertpad            = 15;       /* vertical padding of bar */
 static const int sidepad            = 15;       /* horizontal padding of bar */
 static const char *fonts[]          = { "JetBrains Mono NerdFont:size=11" };
 static const char dmenufont[]       = "monospace:size=10";
-#include "ayu.h"
+#include "gruvbox.h"
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] 	= { foreground, background, background },
